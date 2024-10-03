@@ -31,22 +31,29 @@ Please follow the steps belows such that I can get familiar with you.
 
 1. Click the locations as follows to pop up your Server Profile  
 
-   a.  Click "HKCT Garrick Sir" Server  
-   b.  Click the "Member List" and then "Edit Server Profile"  
+   a.  Click "HGS" Server icon.
+   b.  Click "HKCT Garrick Sir" and pop up the pull down menu.
+   b.  Click the "Edit Server Profile". 
 
    ![](./img/discordserverp01.jpg)
 
 
 2. Your Server Profile is popped up.  
 
-   a. Updated the name as follows such that I know who you are.
+   a. Updated the "Server Nickname" with your REAL name and program shown as follows.
 
       For example:  
       例子:   
 
-    CHAN Tai Man , HD Cybersecurity   
-    陳大文 , 網絡安全高級文憑（檢測及合規）  
-    陈大文, 网络安全高级文凭（检测及合规）   
+      CHAN Tai Man , HD Cybersecurity   
+      陳大文, 網絡安全高級文憑（檢測及合規）  
+      陈大文, 网络安全高级文凭（检测及合规）   
 
-    ![](./img/discordserverp02.jpg)
+      A preview ( purple circle in the figure ) will be shown.
+
+      ![](./img/discordserverp02.jpg)
+   
+   b. Click "Save Changes" button.  Your name will be shown up in my server.
+
+   c. The change is effective in "HKCT Garrick Sir" Server.  It will not change your "Server Nickname" in other Discord Servers.
 
