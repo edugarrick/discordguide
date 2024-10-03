@@ -1,4 +1,4 @@
-# Discord setup
+# Joining HKCT Garrick Sir Discord Server
 
 ## Steps
 
