@@ -1,25 +1,23 @@
-# My Server Link
-
 # Discord setup
 
 ## Steps
 
 ### Step 1: Install Discord
 
-1. Create an account in the Discord.com if you don't have any account.
+1. Create a Discord account in the Discord.com if you don't have any.
 
    https://discord.com/register
 
-2. Download the Discord app from the Discord website: 
+2. Download the Discord app from the Discord website.
 
    https://discord.com/download
 
-3. Join "HKCT Garrick Sir" server by click the following Discord invitation URL.
+3. Join "HKCT Garrick Sir" server by click the following invitation URL.
 
    https://discord.gg/x78JHGwp6W
 
-4. After the registration, you can use Discord by the app on PC, mac or mobile phone.
-   You can also use Discord by web browser as well.
+   You can use Discord on PC, mac or mobile phone.
+   You can even use Discord in a web browser.
 
 ### Step 2: Update Discord Server Profile
 
@@ -29,7 +27,7 @@ Please follow the steps belows such that I can get familiar with you.
 如果我知道你的真实名字，沟通会更为方便。
 请按照以下步骤操作，以便我可以更熟悉您。
 
-1. Click the locations as follows to pop up your Server Profile  
+1. Click the locations shown in the following figure to bring up your Server Profile.
 
    a.  Click "HGS" Server icon.
    b.  Click "HKCT Garrick Sir" and pop up the pull down menu.
@@ -38,7 +36,7 @@ Please follow the steps belows such that I can get familiar with you.
    ![](./img/discordserverp01.jpg)
 
 
-2. Your Server Profile is popped up.  
+2. Your Server Profile will be popped up.  Then
 
    a. Updated the "Server Nickname" with your REAL name and program shown as follows.
 
@@ -53,7 +51,7 @@ Please follow the steps belows such that I can get familiar with you.
 
       ![](./img/discordserverp02.jpg)
    
-   b. Click "Save Changes" button.  Your name will be shown up in my server.
+   b. Click "Save Changes" button.
 
-   c. The change is effective in "HKCT Garrick Sir" Server.  It will not change your "Server Nickname" in other Discord Servers.
+   c. The change is effective in "HKCT Garrick Sir" Server only.  It will not change your "Server Nickname" in other Discord Servers.
 
